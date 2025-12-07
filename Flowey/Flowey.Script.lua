@@ -156,4 +156,4 @@ player.CharacterAdded:Connect(function()
     setupCharacter()
 end)
 
-_G.a = connections﻿
+_G.a = connections
